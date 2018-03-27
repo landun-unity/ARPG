@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ToLua\Core\LuaState.cs">
+    <Files>
+      <File FileName="Assets\ToLua\BaseType\LuaInterface_EventObjectWrap.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Globals.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToLua\Core\LuaState.cs" Line="2075" Column="1" />
+      <File FileName="Assets\Game\Scripts\Command\StartUpCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToLua\Misc\LuaClient.cs" Line="1" Column="1" />
+      <File FileName="Assets\Source\LuaConst.cs" Line="1" Column="1" />
+      <File FileName="Assets\Source\Generate\BaseWrap.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Framework\Facade.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Framework\AppFacade.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Framework\NotiConst.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Interface\IController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Framework\AppView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Framework\GameSetting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Framework\GenerateMd5.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Framework\Locker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Framework\LuaBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Framework\Tools.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Framework\View.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Interface\ICommand.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
